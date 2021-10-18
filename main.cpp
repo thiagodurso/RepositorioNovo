@@ -1,14 +1,13 @@
 #include <stdio.h> 
 
-void imprimirAlice(){
-	
-}
 
 void imprimirBob()
 {
 	
 }
-
+void imprimirAlice(){
+	
+}
 int main(){
 	
 return 0;
