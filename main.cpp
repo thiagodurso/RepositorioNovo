@@ -3,7 +3,7 @@
 
 void imprimirBob()
 {
-	
+	printf("Bob");
 }
 void imprimirAlice(){
 	
