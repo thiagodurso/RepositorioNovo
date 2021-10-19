@@ -1,5 +1,5 @@
 #include <stdio.h> 
-
+#include funcoes.h
 
 void imprimirBob()
 {
@@ -10,7 +10,17 @@ void imprimirAlice(){
 	
 }
 int main(){
-	imprimirBob();
+
+		imprimirAlice();
+	return 0;
 	
-return 0;
 }
+	
+
+
+void imprimirHelloWorld(){
+	printf("Hello World");
+
+}
+
+
