@@ -10,8 +10,9 @@ void imprimirAlice(){
 	
 }
 int main(){
+		imprimirAlice();
+	return 0;
 	
-return 0;
 }
 
 void imprimirHelloWorld(){
